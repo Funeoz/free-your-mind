@@ -14,7 +14,13 @@ Download the extension from the [Firefox Marketplace]
 
 ### Chrome/Brave/Opera
 
-Download the extension from the latest release [here].
+1) Click on the green button **Code** above
+2) Select **Download as Zip**
+3) Unzip the folder
+4) Go to `chrome://extensions`
+5) Activate the developer mode
+6) Click on **Load unpacked**
+7) Select the unzipped folder
 
 ## Contributing
 
