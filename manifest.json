@@ -1,0 +1,27 @@
+{
+    "manifest_version": 2,
+    "name": "Free Your Mind",
+    "version": "1.0.0",
+    "description": "Blocks you from accessing porn sites and keeps you motivated",
+    "author": "Funeoz",
+    "homepage_url": "https://github.com/Funeoz/free-your-mind",
+    "icons": {
+        "16": "assets/img/icon16.png",
+        "48": "assets/img/icon48.png",
+        "128": "assets/img/icon128.png"
+    },
+
+    "permissions": [
+        "tabs",
+        "webRequest"
+    ],
+
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "browser_specific_settings": {
+        "gecko": {
+          "id": "{71d25593-af97-4077-ac05-8dfe6020d8db}"
+        }
+    }
+}
