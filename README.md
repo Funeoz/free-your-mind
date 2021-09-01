@@ -1,6 +1,6 @@
-![](https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png)
+![https://addons.mozilla.org/fr/firefox/addon/free-your-mind-blocker/](https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png)
 ![](https://img.shields.io/github/license/Funeoz/free-your-mind?style=flat-square)
-![](https://img.shields.io/amo/rating/?label=Firefox&style=flat-square)
+![](https://img.shields.io/amo/rating/free-your-mind-blocker?style=flat-square)
 
 # Free Your Mind
 
@@ -10,7 +10,7 @@ Free Your Mind is a free extension that blocks you the access to adult websites 
 
 ### Firefox
 
-Download the extension from the [Firefox Marketplace]
+Download the extension from the [Firefox Marketplace](https://addons.mozilla.org/fr/firefox/addon/free-your-mind-blocker/)
 
 ### Chrome/Brave/Opera
 
