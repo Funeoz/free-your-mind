@@ -1,4 +1,5 @@
-![https://addons.mozilla.org/fr/firefox/addon/free-your-mind-blocker/](https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png)
+
+<a href="https://addons.mozilla.org/addon/free-your-mind-blocker/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get uBlock Origin for Firefox"></a>
 ![](https://img.shields.io/github/license/Funeoz/free-your-mind?style=flat-square)
 ![](https://img.shields.io/amo/rating/free-your-mind-blocker?style=flat-square)
 
