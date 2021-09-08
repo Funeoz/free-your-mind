@@ -27,8 +27,6 @@ Download the extension from the [Firefox Marketplace](https://addons.mozilla.org
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
-
 ## License
 
 [GPLv3](https://github.com/Funeoz/free-your-mind/blob/main/LICENSE)
